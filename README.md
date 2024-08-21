@@ -3,7 +3,7 @@
 
 
 ## Socials:
- - [x/Twitter](https://x.com/jan_tumpa)
+ - [x/Twitter](https://x.com/_72hrs)
 
 # Main technologies I use:
 These are only some of the stuff I use, on a daily basis. I am not including popular tooling, packages or anything not related to development. If you wish to learn more of what I know, contact me on my socials above.
