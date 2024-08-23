@@ -21,7 +21,7 @@ These are only some of the stuff I use, on a daily basis. I am not including pop
 <div>
 
 # Public repository languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tumpa02&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=72mins&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
