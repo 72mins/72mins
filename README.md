@@ -1,20 +1,18 @@
 # About Me:
-#### Hi, my name is Jan, I'm a Software Engineer. Other than software development, I am also really interested in Cybersecurity<br><br> If you want to reach out to me, please do so on my socials below. <br><br>
+#### Hello, my name is Jan. I am a Full-Stack Software Developer based in Croatia. Other than software development, I love learning about everything Cybersecurity related; networking, penetration testing, blue team-ing, etc..
 
-
-## Socials:
- - [x/Twitter](https://x.com/_72hrs)
- - Mail: 72min@proton.me
+## Contact:
+ - Mail: jtumpa@gmail.com
 
 # Main technologies I use:
-These are only some of the stuff I use, on a daily basis. I am not including popular tooling, packages or anything not related to development. If you wish to learn more of what I know, contact me on my socials above.
+These are only some of the stuff I use, on a daily basis. I am not including popular tooling, packages or anything not related to development. If you wish to learn more of what I know, feel free to contact me above, :)
  - JS/TS
     - Plain React
     - NextJS
     - Vite
  - Python
     - Django
-    - Django Rest Framework 
+    - Django Rest Framework
  - PostgreSQL
  - Golang
  - Rust
