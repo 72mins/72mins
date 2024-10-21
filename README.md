@@ -1,5 +1,5 @@
 # About Me:
-#### Hello, my name is Jan. I am a Full-Stack Software Developer based in Croatia. Other than software development, I love learning about everything Cybersecurity related; networking, penetration testing, blue team-ing, etc..
+#### Hello, my name is Jan. I am a Full-Stack Software Developer based in Croatia. Other than software development, I love learning about everything Cybersecurity related; networking, penetration testing, popular tooling, etc..
 
 ## Contact:
  - Mail: jtumpa@gmail.com
