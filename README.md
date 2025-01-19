@@ -1,5 +1,5 @@
 # About Me:
-#### Hello, my name is Jan. I am a Full-Stack Software Developer based in Croatia. Other than software development, I love learning and reading about everything Cybersecurity related; networking, penetration testing, malware, reverse engineering, etc..
+#### Hello, my name is Jan. I am a Full-Stack Software Developer. Other than software development, I love learning and reading about everything Cybersecurity related; networking, penetration testing, malware, reverse engineering, etc..
 
 ## Contact:
  - Mail: 72min@proton.me
