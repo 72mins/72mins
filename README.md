@@ -11,5 +11,5 @@ im also very interested and dabble in infosec.
 <br />
 <br />
  
-[website/blog](https://72mins.com)
+[website/blog/contact](https://72mins.com)
 </samp>
