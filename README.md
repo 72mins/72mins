@@ -1,15 +1,12 @@
-# hi
+## hello
 
 <samp>
-my name is Jan and i am a software engineer.
+my name is Jan. i am a software engineer and security researcher.
 <br />
 <br />
-i open source anything i can. a lot of the stuff i work on is private and i'm not allowed to open source it, sorry.
+i open source anything i can. contractual work and some research has to stay private. sorry. :(
 <br />
 <br />
-im also very interested and dabble in infosec.
 <br />
-<br />
- 
 [website/blog/contact](https://72mins.com)
 </samp>
