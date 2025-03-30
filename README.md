@@ -8,5 +8,6 @@ i open source anything i can. contractual work and some research has to stay pri
 <br />
 <br />
 <br />
+  
 [website/blog/contact](https://72mins.com)
 </samp>
